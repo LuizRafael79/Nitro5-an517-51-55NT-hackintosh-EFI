@@ -21,6 +21,8 @@ SaeedHaidar
 , and updated to latest openCore by me. Thanks SaeedHaidar, u are my hero!!
 </h4>
 <br>
+  PORTUGUES BR - ESSA EFI FUNCIONA NO ACER AN517-51 COM INTEL 9 GERAÇÃO, E GEFORCE 1650 (DESABILITADA)<br>
+  FUNCIONA PERFEITAMENTE
 
 </div>
 
