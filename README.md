@@ -18,11 +18,11 @@
 <h4>This UEFI is initial made from: <a href="https://github.com/SaeedHaidar/Nitro-5-an517-51-Hackintosh">
 SaeedHaidar
 </a>
-, and updated to latest openCore by me. Thanks SaeedHaidar, u are my hero!!
+, and updated to latest openCore by me. Thanks SaeedHaidar, u are my hero!! AND THANKS sostenesg7 FOR YOUR WORK!!
 </h4>
 <br>
   PORTUGUES BR - ESSA EFI FUNCIONA NO ACER AN517-51 COM INTEL 9 GERAÇÃO, E GEFORCE 1650 (DESABILITADA)<br>
-  FUNCIONA PERFEITAMENTE
+  FUNCIONA PERFEITAMENTE, OBRIGADO sostenesg7 PELO SEU TRABALHO!
 
 </div>
 <br>
