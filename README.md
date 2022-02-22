@@ -22,10 +22,10 @@ SaeedHaidar
 </h4>
 <br>
   PORTUGUES BR - ESSA EFI FUNCIONA NO ACER AN517-51 COM INTEL 9 GERAÇÃO, E GEFORCE 1650 (DESABILITADA)<br>
-  FUNCIONA PERFEITAMENTE<br>
+  FUNCIONA PERFEITAMENTE
 
 </div>
-
+<br>
 <details>  
 <summary><strong>Images</strong></summary>
 <br>
