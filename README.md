@@ -20,7 +20,7 @@ SaeedHaidar
 </a>
 , and updated to latest openCore by me. Thanks SaeedHaidar, u are my hero!! AND THANKS sostenesg7 FOR YOUR WORK!!
 </h4>
-  <h3>PORTUGUES BR - ESSA EFI FUNCIONA NO ACER AN517-51 COM INTEL 9 GERAÇÃO, E GEFORCE 1650 (DESABILITADA)<br>
+  <h3>PORTUGUES BR - ESSA EFI FUNCIONA NO ACER AN517-51 COM INTEL 9 GERAÇÃO, E GEFORCE 1650 (DESABILITADA) - 
   FUNCIONA PERFEITAMENTE, OBRIGADO <a href="https://github.com/sostenesg7/Nitro5-an517-51-55NT-hackintosh-EFI">sostenesg7</a> PELO SEU TRABALHO!</h3>
 
 </div>
